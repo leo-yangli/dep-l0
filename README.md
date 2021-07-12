@@ -2,13 +2,13 @@
 This repository contains the code for [Dep-L0: Improving L0-based Network Sparsification via Dependency Modeling](https://arxiv.org/abs/2107.00070).
 
 <p align="center">
-    <img height="500" alt="conv_layer" src="https://github.com/leo-yangli/dep-l0/blob/master/demo.png"/>
+    <img height="407" alt="demo" src="https://github.com/leo-yangli/dep-l0/blob/master/demo.png?raw=true"/>
 </p>
 
 ## Requirments
-  torch
-  torchvision
-  tensorboardX
+	torch
+	torchvision
+	tensorboardX
 
 ## Usage
 
